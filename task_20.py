@@ -17,6 +17,8 @@ def task_4_3():
             fill_cell()
         move_down()
 
+        a = not a
+
 
 
 
